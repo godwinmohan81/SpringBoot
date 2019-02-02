@@ -4,10 +4,12 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="com.myspring.starterproject"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="first-springboot-project"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
